@@ -1,0 +1,4 @@
+gspread-dataframe
+st-gsheets-connection
+gspread
+pandas
